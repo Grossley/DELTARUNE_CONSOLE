@@ -1,0 +1,80 @@
+Some info:
+
+TitleKeys
+NzFBMzc2Q0ZBQzg2RkQ0MUY0QjVDQUU3MEMyN0Q4NDU= BASE
+OEM4N0Q3NzgyRUI3MDE2NTIwOENEOUUxQkM3NEJEOEQ= UPDATE
+
+Changes:
+From BASE to UPD1:
+ Added:
+ - gml_Object_obj_time_Draw_75
+
+ Changed:
+  - filesystem:
+    - /options.ini
+    - /lang/lang_en.json
+  - Code:
+    - gml_Object_DEVICE_FAILURE_Create_0
+    - gml_Object_DEVICE_FAILURE_Step_0
+    - gml_Object_DEVICE_MENU_Create_0
+    - gml_Object_DEVICE_MENU_Draw_0
+    - gml_Object_DEVICE_MENU_Other_15
+    - gml_Object_obj_darkcontroller_Create_0
+    - gml_Object_obj_initializer2_Other_72
+    - gml_Object_obj_savemenu_Create_0
+    - gml_Object_obj_time_Create_0
+    - gml_Object_obj_time_Draw_77
+    - gml_Object_obj_time_Other_72
+    - gml_Object_obj_time_Step_1
+    - gml_Script_ossafe_savedata_load
+    - gml_Script_ossafe_savedata_save
+    - gml_Script_scr_84_name_input_setup
+    - gml_Script_scr_draw_screen_border
+    - gml_Script_scr_getbuttonsprite
+    - gml_Script_scr_save
+    - gml_Script_scr_saveprocess
+    - gml_Script_scr_texttype
+
+From UPD1 to UPD2
+   NO CHANGES
+
+From UPD2 to UPD3
+ Added:
+  - Code_
+     - gml_Object_DEVICE_CONTACT_Other_5
+
+ Changed:
+  - Filesystem:
+    - /lang/lang_en.json
+    - /lang/lang_ja.json
+  - Code:
+    - gml_Object_DEVICE_CONTACT_Step_0
+    - gml_Object_DEVICE_MENU_Create_0 
+    - gml_Object_DEVICE_MENU_Other_15 
+    - gml_Object_DEVICE_MENU_Step_0 
+    - gml_Object_obj_chaseenemy_Draw_0 
+    - gml_Object_obj_darkcontroller_Draw_0 
+    - gml_Object_obj_darkcontroller_Step_0
+    - gml_Object_obj_debugcontroller_Step_0 
+    - gml_Object_obj_elevatorcontroller_Step_0 
+    - gml_Object_obj_gamecontroller_Create_0 
+    - gml_Object_obj_getsusieevent_Create_0 
+    - gml_Object_obj_king_body_Step_0 
+    - gml_Object_obj_kingcutscene_Draw_0 
+    - gml_Object_obj_mainchara_Create_0 
+    - gml_Object_obj_mainchara_Draw_0 
+    - gml_Object_obj_mainchara_Step_0 
+    - gml_Object_obj_overworldc_Step_0 
+    - gml_Object_obj_starwalker_overworld_Step_0 
+    - gml_Object_obj_time_Draw_0
+    - gml_Object_obj_time_Draw_64
+    - gml_Object_obj_time_Step_1 
+    - gml_Object_obj_writer_Draw_0 
+    - gml_Script_button1_p 
+    - gml_Script_scr_84_debug 
+    - gml_Script_scr_controls_default 
+    - gml_Script_scr_draw_screen_border 
+    - gml_Script_scr_getbuttonsprite 
+
+From UPD3 to UPD4
+    NO CHANGES
