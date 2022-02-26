@@ -1,0 +1,2 @@
+Initial version: deltarune-nx-1.03-romfs
+Update v1: deltarune-nx-1.03a-romfs
